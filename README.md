@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Gigel Gherghelau
+a simple demo, by Gigel Gherghelau
